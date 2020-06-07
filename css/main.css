@@ -1098,6 +1098,11 @@ padding: 80px 0;
 background: #19beda;
 }
 
+.newsletter.apply {
+  padding: 80px 0;
+  background: lightsteelblue;
+  }
+
 .newsletter .content {
 max-width: 650px;
 margin: 0 auto;
@@ -1123,6 +1128,24 @@ background: #243c4f;
 color: #fff;
 font-weight:600;
 }
+
+span button.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 50%;}
 
 /*Presets*/
 
